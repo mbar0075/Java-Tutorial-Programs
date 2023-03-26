@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Class
+comment1.params=
+comment1.target=void\ Grade()
+comment2.params=n1\ n2
+comment2.target=int\ Add(int,\ int)
+numComments=3

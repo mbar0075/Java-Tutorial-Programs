@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Person2
+comment1.params=
+comment1.target=Person2()
+comment1.text=\r\n\ Default\ constructor\r\n
+comment2.params=name\ age\ gender
+comment2.target=Person2(java.lang.String,\ int,\ char)
+comment2.text=\r\n\ Constructs\ a\ new\ Person\ with\ passed\ name,\r\n\ age,and\ gender.\r\n\r\n\ @param\ name\ \ \ name\ of\ the\ new\ Person\r\n\ @param\ age\ \ \ \ age\ of\ the\ new\ Person\r\n\ @param\ gender\ gender\ of\ the\ new\ Person\r\n
+comment3.params=
+comment3.target=int\ getAge()
+comment3.text=\r\n\ Returns\ the\ age\ of\ this\ person.\r\n\r\n\ @return\ the\ age\ of\ this\ person\r\n
+comment4.params=
+comment4.target=char\ getGender()
+comment4.text=\r\n\ Returns\ the\ gender\ of\ this\ person.\r\n\r\n\ @return\ the\ gender\ of\ this\ person\r\n
+comment5.params=
+comment5.target=java.lang.String\ getName()
+comment5.text=\r\n\ Returns\ the\ name\ of\ this\ person.\r\n\r\n\ @return\ the\ name\ of\ this\ person\r\n
+comment6.params=age
+comment6.target=void\ setAge(int)
+comment6.text=\r\n\ Sets\ the\ age\ of\ this\ person.\r\n\r\n\ @param\ age\ this\ person's\ age\r\n
+comment7.params=gender
+comment7.target=void\ setGender(char)
+comment7.text=\r\n\ Sets\ the\ gender\ of\ this\ person.\r\n\r\n\ @param\ gender\ this\ person's\ age\r\n
+comment8.params=name
+comment8.target=void\ setName(java.lang.String)
+comment8.text=\r\n\ Sets\ the\ name\ of\ this\ person.\r\n\r\n\ @param\ age\ this\ person's\ name\r\n
+numComments=9

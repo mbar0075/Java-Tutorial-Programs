@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=firstArray\ secondArray
+comment0.target=boolean\ isEqualArrays(int[],\ int[])
+numComments=1

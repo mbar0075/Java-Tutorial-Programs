@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Cube
+comment1.params=
+comment1.target=Cube()
+comment2.params=s
+comment2.target=Cube(double)
+comment3.params=s
+comment3.target=void\ setSide(double)
+comment4.params=
+comment4.target=double\ calcArea()
+comment5.params=
+comment5.target=double\ calcVolume()
+numComments=6

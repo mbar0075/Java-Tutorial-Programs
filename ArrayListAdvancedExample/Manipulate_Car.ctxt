@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Manipulate_Car
+comment1.params=carListIn
+comment1.target=void\ addCar(java.util.ArrayList)
+comment2.params=carListIn
+comment2.target=void\ listAll(java.util.ArrayList)
+comment3.params=carListIn
+comment3.target=void\ editCar(java.util.ArrayList)
+comment3.text=\ method\ TO\ edit\ a\ car\ from\ the\ list\ -\ in\ a\ real\r\napplication\ this\ would\ need\ to\ include\ some\ validation
+comment4.params=first\ last\ input
+comment4.target=boolean\ check_input(char,\ char,\ char)
+comment5.params=carListIn\ findreg\ pos
+comment5.target=void\ ask_new_details(java.util.ArrayList,\ java.lang.String,\ int)
+comment6.params=carListIn
+comment6.target=void\ removeCar(java.util.ArrayList)
+comment7.params=carListIn
+comment7.target=void\ findMake(java.util.ArrayList)
+comment8.params=carListIn
+comment8.target=void\ writeList(java.util.ArrayList)
+comment9.params=carListIn
+comment9.target=void\ readList(java.util.ArrayList)
+numComments=10

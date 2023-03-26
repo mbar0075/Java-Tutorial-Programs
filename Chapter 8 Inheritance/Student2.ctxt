@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Student2
+comment1.params=parentName\ phone\ classNo\ id\ name\ surname
+comment1.target=Student2(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=parentName
+comment2.target=void\ setParentName(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

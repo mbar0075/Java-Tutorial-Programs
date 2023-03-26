@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Car
+comment1.params=theOwner\ brand\ mudel\ regno\ f_type
+comment1.target=Car(Person,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=void\ writeFuel()
+comment4.params=owner
+comment4.target=void\ change_car_owner(Person)
+numComments=5

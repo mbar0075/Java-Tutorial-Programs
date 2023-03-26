@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Manipulate_Account
+comment1.params=bankList
+comment1.target=void\ addAccount(java.util.ArrayList)
+comment2.params=bankList
+comment2.target=double\ getTotalBalance(java.util.ArrayList)
+comment3.params=bankList\ atLeast
+comment3.target=int\ count(java.util.ArrayList,\ double)
+comment4.params=bankList\ accountNumber
+comment4.target=BankAccount\ find(java.util.ArrayList,\ int)
+comment5.params=bankList
+comment5.target=BankAccount\ getMaximum(java.util.ArrayList)
+comment6.params=bankList
+comment6.target=void\ make_deposit(java.util.ArrayList)
+comment7.params=bankList
+comment7.target=void\ make_withdrawal(java.util.ArrayList)
+comment8.params=bankList
+comment8.target=void\ list_all(java.util.ArrayList)
+numComments=9

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=a
+comment0.target=void\ setAlpha(int)
+comment0.text=Methods\ to\ access\ alpha.\ It\ is\ OK\ for\ a\nmember\ of\ a\ class\ to\ access\ a\ private\ member\nof\ the\ same\ class.\n\n
+comment1.target=int\ getAlpha()
+numComments=2

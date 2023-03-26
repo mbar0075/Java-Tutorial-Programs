@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Temperature
+comment1.params=t
+comment1.target=void\ setTemp(double)
+comment2.params=
+comment2.target=double\ toF()
+comment3.params=
+comment3.target=double\ toC()
+numComments=4

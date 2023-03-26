@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=i\ j
+comment0.target=By_Ref(int,\ int)
+comment1.params=o
+comment1.target=void\ meth(By_Ref)
+numComments=2

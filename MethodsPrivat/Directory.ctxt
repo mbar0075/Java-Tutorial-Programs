@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Directory
+comment1.params=
+comment1.target=Directory()
+comment10.params=friends
+comment10.target=void\ search_by_surname(Directory[])
+comment2.params=name\ surname\ mobile
+comment2.target=Directory(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=friends
+comment3.target=void\ inputDetails(Directory[])
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=java.lang.String\ getSurname()
+comment6.params=
+comment6.target=java.lang.String\ getMobile()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment8.params=friends
+comment8.target=void\ display(Directory[])
+comment9.params=friends
+comment9.target=void\ searchMobile(Directory[])
+numComments=11

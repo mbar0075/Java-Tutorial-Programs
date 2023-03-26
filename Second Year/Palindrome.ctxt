@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Palindrome
+comment1.params=word
+comment1.target=boolean\ Check(java.lang.String)
+numComments=2

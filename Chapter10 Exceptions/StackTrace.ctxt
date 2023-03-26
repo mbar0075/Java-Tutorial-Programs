@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=StackTrace
+comment0.text=\r\n\ \ \ This\ program\ demonstrates\ the\ stack\ trace\ that\ is\r\n\ \ \ produced\ when\ an\ exception\ is\ thrown.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ myMethod()
+comment2.text=\r\n\ \ \ \ \ \ MyMethod\r\n
+comment3.params=
+comment3.target=void\ produceError()
+comment3.text=\r\n\ \ \ \ \ \ produceError\r\n
+numComments=4

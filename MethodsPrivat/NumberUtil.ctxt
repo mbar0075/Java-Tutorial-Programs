@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=NumberUtil
+comment1.params=x
+comment1.target=boolean\ Even(int)
+comment2.params=x\ y
+comment2.target=int\ getMaxOf(int,\ int)
+comment3.params=N
+comment3.target=long\ getFactorial(int)
+numComments=4

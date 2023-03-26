@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Manipulate_Staff_Students
+comment1.params=staffListIn\ studentListIn\ choice
+comment1.target=void\ addPerson(java.util.ArrayList,\ java.util.ArrayList,\ char)
+comment2.params=staffListIn\ studentListIn\ type
+comment2.target=void\ listAll(java.util.ArrayList,\ java.util.ArrayList,\ char)
+comment3.params=staffListIn
+comment3.target=void\ listbyRoomNo(java.util.ArrayList)
+numComments=4

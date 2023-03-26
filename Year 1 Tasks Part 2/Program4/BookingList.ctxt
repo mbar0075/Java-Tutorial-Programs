@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=BookingList
+comment0.text=Hotel\ booking\ system\ 5\ options\r\n\ 1.create\ a\ booking\r\n\ 2.edit\r\n\ 3.delete\r\n\ 4.search\r\n\ 5.exit\r\n\ option1;name,surname,\ contact\ number,\ choose\ luxury\ or\ economy\ ,\ or\ single\ or\ double\r\n\ prompts\ the\ user\ we\ are\ full\ if\ there\ are\ no\ spaces\ left\r\n\ always\ \:search\ for\ a\ booking\ ;use\ arrays;\r\n\ search\ by\ any\ you\ want\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

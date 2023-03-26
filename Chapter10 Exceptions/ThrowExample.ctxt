@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ThrowExample
+comment0.text=\ In\ this\ program\ we\ are\ checking\ the\ Student\ age\r\n\ if\ the\ student\ age<12\ and\ weight\ <40\ then\ our\ program\ \r\n\ should\ return\ that\ the\ student\ is\ not\ eligible\ for\ registration.\r\n
+comment1.params=stuage\ stuweight
+comment1.target=void\ checkEligibilty(int,\ int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

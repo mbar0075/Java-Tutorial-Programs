@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Numbers2
+comment1.params=a
+comment1.target=void\ inputNums(int[])
+comment2.params=a
+comment2.target=int\ findMax(int[])
+comment3.params=a
+comment3.target=double\ calcAvg(int[])
+comment4.params=a
+comment4.target=int\ findOdd(int[])
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

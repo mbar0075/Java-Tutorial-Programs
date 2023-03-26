@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CircleFirstTry
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=r
+comment2.target=double\ area(double)
+comment3.params=r
+comment3.target=double\ circum(double)
+numComments=4

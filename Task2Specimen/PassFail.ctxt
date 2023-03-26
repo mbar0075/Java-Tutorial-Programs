@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=PassFail
+comment1.params=mark
+comment1.target=boolean\ passORfail(int)
+numComments=2

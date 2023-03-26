@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=League2
+comment1.params=
+comment1.target=League2()
+comment2.params=name\ pts
+comment2.target=League2(java.lang.String,\ int)
+comment3.params=teams
+comment3.target=void\ inputServices(League2[])
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=int\ getPts()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=teams
+comment7.target=void\ show(League2[])
+comment8.params=teams
+comment8.target=void\ sort(League2[])
+numComments=9

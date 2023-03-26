@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=w
+comment0.target=void\ setWidth(float)
+comment1.params=h
+comment1.target=void\ setHeight(float)
+comment2.target=float\ getArea()
+numComments=3

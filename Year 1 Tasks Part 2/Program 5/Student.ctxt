@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=Program\ 5\ Stastistics\r\n\ Calculate\ statistics\ of\ students\r\n\ Enter\ data\ of\ 20\ students\ ,\ name\ and\ marks\ of\ 3\ subjects(every\ mark\ needs\ a\ validation)\r\n\ 1.Average,subject,overall\r\n\ 2.Min\ and\ Max\ ,\ subject\ overall\ and\ output\ name\r\n\ 3.Histogram\ by\ subject\ only\r\n\ 4.Progress\ Report\ ,\ the\ user\ can\ search\ for\ the\ student\ by\ name\ and\ the\ progress\ report\ come\ sup\r\n\ based\ on\ 4\ brackets\ ,\ it\ will\ assign\ a\ feedback\ on\ every\ subject\r\n\ 85-100\ keep\ it\ up\r\n\ 70-84\ focus\ on\ detail\r\n\ 50-69\ thourouhg\ study\ required\r\n\ 0-49\ personal\ appoitment\r\n\ 5.Exit\r\n
+comment1.params=name\ mark1\ mark2\ mark3
+comment1.target=Student(java.lang.String,\ int,\ int,\ int)
+numComments=2

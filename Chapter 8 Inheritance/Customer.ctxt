@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Customer
+comment1.params=nameIn
+comment1.target=Customer(java.lang.String)
+comment1.text=\ value\ of\ total\ goods\ received\r\nso\ far\ by\ customer
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=double\ getTotalMoneyPaid()
+comment4.params=
+comment4.target=double\ getTotalGoodsReceived()
+comment5.params=
+comment5.target=double\ calculateBalance()
+comment6.params=paymentIn
+comment6.target=void\ recordPayment(double)
+comment7.params=goodsIn
+comment7.target=boolean\ dispatchGoods(double)
+numComments=8

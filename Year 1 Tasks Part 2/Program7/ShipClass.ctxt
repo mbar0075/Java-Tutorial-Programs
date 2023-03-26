@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ShipClass
+comment1.params=
+comment1.target=void\ Display()
+comment2.params=
+comment2.target=void\ Populate()
+comment3.params=input1\ input2
+comment3.target=void\ Search(int,\ int)
+comment4.params=
+comment4.target=boolean\ Check()
+numComments=5

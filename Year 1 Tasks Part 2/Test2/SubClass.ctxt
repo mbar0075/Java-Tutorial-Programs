@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SubClass
+comment1.params=array
+comment1.target=void\ Input(char[])
+comment2.params=array
+comment2.target=void\ Search(char[])
+numComments=3

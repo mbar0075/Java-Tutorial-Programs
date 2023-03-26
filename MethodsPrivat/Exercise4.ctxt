@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Exercise4
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=password
+comment2.target=boolean\ is_Valid_Password(java.lang.String)
+comment3.params=ch
+comment3.target=boolean\ is_Letter(char)
+comment4.params=ch
+comment4.target=boolean\ is_Numeric(char)
+numComments=5

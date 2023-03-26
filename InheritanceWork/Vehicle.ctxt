@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Vehicle
+comment1.params=Reg\ Name\ Year\ Value
+comment1.target=Vehicle(java.lang.String,\ java.lang.String,\ int,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getReg_No()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=int\ getYear()
+comment5.params=
+comment5.target=double\ getValue()
+comment6.params=Value
+comment6.target=void\ setValue(double)
+comment7.params=year2
+comment7.target=int\ calculateAge(int)
+comment8.params=year2
+comment8.target=double\ calcdepreciation(int)
+numComments=9

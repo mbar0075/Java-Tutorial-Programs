@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=BinarySearch
+comment1.params=a\ first\ last\ key
+comment1.target=int\ search(int[],\ int,\ int,\ int)
+comment1.text=\r\n\ \ \ \ \ Searches\ the\ array\ a\ for\ key.\ If\ key\ is\ not\ in\ the\ array\ segment,\ then\ -1\ is\r\n\ \ \ \ \ returned.\ Otherwise\ returns\ an\ index\ in\ the\ segment\ such\ that\ key\ \=\=\ a[index].\r\n\ \ \ \ \ Precondition\:\ a[first]\ <\=\ a[first\ +\ 1]<\=\ ...\ <\=\ a[last]\ i.e.\ data\ must\ be\ sorted\r\n
+numComments=2

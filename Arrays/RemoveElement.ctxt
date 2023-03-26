@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=RemoveElement
+comment1.params=
+comment1.target=void\ input()
+comment2.params=
+comment2.target=int\ search_no()
+comment3.params=
+comment3.target=void\ remove_no()
+comment4.params=
+comment4.target=void\ display()
+numComments=5

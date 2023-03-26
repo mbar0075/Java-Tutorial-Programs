@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Sort
+comment1.params=l
+comment1.target=Sort(League)
+comment2.params=teams
+comment2.target=void\ Sort(int[][])
+numComments=3

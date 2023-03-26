@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TwoDShape2
+comment1.params=w\ h
+comment1.target=TwoDShape2(double,\ double)
+comment1.text=\ private\ members\ cannot\ be\ accessed\ from\ other\ \r\n\ classes;\ accessor\ methods\ have\ \ to\ be\ used\ to\ \r\n\ set\ and\ get\ private\ members\r\n
+comment2.params=
+comment2.target=double\ getWidth()
+comment3.params=
+comment3.target=double\ getHeight()
+comment4.params=w
+comment4.target=void\ setWidth(double)
+comment5.params=h
+comment5.target=void\ setHeight(double)
+comment6.params=
+comment6.target=void\ showDim()
+numComments=7

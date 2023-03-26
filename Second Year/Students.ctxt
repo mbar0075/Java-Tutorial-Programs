@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Students
+comment1.params=
+comment1.target=Students()
+comment2.params=n
+comment2.target=void\ setName(java.lang.String)
+comment3.params=s
+comment3.target=void\ setSurname(java.lang.String)
+comment4.params=p
+comment4.target=void\ setPmark(double)
+comment5.params=t
+comment5.target=void\ setTmark(double)
+comment6.params=
+comment6.target=java.lang.String\ getName()
+comment7.params=
+comment7.target=java.lang.String\ getSurname()
+comment8.params=
+comment8.target=double\ getAverage()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

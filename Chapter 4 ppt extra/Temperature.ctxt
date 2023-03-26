@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=temperatureOut
+comment0.target=void\ enterTemps(double[])
+comment1.params=temperatureIn
+comment1.target=void\ displayTemps(double[])
+numComments=2

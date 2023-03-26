@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Statistics
+comment1.params=
+comment1.target=void\ Input()
+comment2.params=
+comment2.target=void\ Average()
+comment3.params=
+comment3.target=void\ MaxMin()
+comment4.params=
+comment4.target=void\ Histogram()
+comment5.params=
+comment5.target=void\ ProgressReport()
+numComments=6

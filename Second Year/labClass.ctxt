@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=labClass
+comment1.params=
+comment1.target=labClass()
+comment2.params=day\ time\ lecturer\ room
+comment2.target=labClass(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=int\ numberOfStudents()
+comment4.params=
+comment4.target=void\ printDetails()
+comment5.params=
+comment5.target=void\ printList()
+comment6.params=s
+comment6.target=void\ enrollStudents(Student)
+numComments=7

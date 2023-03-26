@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Rectangle4
+comment1.params=
+comment1.target=Rectangle4()
+comment2.params=w\ h
+comment2.target=Rectangle4(double,\ double)
+comment3.params=x
+comment3.target=Rectangle4(double)
+comment4.params=ob
+comment4.target=Rectangle4(Rectangle4)
+comment5.params=
+comment5.target=boolean\ isSquare()
+comment6.params=
+comment6.target=double\ area()
+numComments=7

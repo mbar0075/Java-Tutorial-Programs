@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Hangman
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=word\ enteredLetters
+comment2.target=int\ enterLetter(java.lang.String,\ char[])
+comment3.params=word\ enteredLetters
+comment3.target=boolean\ printWord(java.lang.String,\ char[])
+comment3.text=\ Print\ word\ with\ asterisks\ for\ hidden\ letters,\ returns\ true\ if\r\nasterisks\ were\ printed,\ otherwise\ return\ false
+comment4.params=letter\ enteredLetters
+comment4.target=boolean\ inEnteredLetters(char,\ char[])
+comment4.text=Check\ if\ letter\ is\ in\ enteredLetters\ array
+comment5.params=enteredLetters
+comment5.target=int\ findEmptyPosition(char[])
+comment5.text=Find\ first\ empty\ position\ in\ array\ of\ entered\ letters\ (one\ with\ code\ \u0000)
+numComments=6

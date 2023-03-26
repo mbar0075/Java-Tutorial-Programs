@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Dictionary2
+comment1.params=numPages\ numDefinitions
+comment1.target=Dictionary2(int,\ int)
+comment2.params=
+comment2.target=double\ computeRatio()
+comment3.params=numDefinitions
+comment3.target=void\ setDefinitions(int)
+comment4.params=
+comment4.target=int\ getDefinitions()
+numComments=5

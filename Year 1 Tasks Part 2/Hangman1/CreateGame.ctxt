@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CreateGame
+comment1.params=
+comment1.target=void\ update()
+comment2.params=input
+comment2.target=boolean\ GuessLetter(java.lang.String)
+comment3.params=input
+comment3.target=boolean\ GuessWord(java.lang.String)
+numComments=4

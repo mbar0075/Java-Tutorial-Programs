@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Printing
+comment1.params=array
+comment1.target=void\ printArray(int[])
+comment2.params=array
+comment2.target=void\ printArray(double[])
+comment3.params=array
+comment3.target=void\ printArray(char[])
+numComments=4

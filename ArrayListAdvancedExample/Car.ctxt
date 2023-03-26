@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Car
+comment1.params=registrationIn\ makeIn\ priceIn\ sold
+comment1.target=Car(java.lang.String,\ java.lang.String,\ double,\ char)
+comment2.params=
+comment2.target=char\ getSold()
+comment3.params=
+comment3.target=java.lang.String\ getRegistration()
+comment4.params=
+comment4.target=java.lang.String\ getMake()
+comment5.params=
+comment5.target=double\ getPrice()
+comment6.params=makeIn
+comment6.target=void\ setMake(java.lang.String)
+comment7.params=priceIn
+comment7.target=void\ setPrice(double)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=other
+comment9.target=boolean\ equals(java.lang.Object)
+numComments=10

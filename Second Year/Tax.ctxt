@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Tax
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=income
+comment2.target=double\ taxMarried(double)
+comment3.params=income
+comment3.target=double\ taxSingle(double)
+numComments=4

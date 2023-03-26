@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=CompSciStudent
+comment0.text=\r\n\ \ \ This\ class\ holds\ data\ for\ a\ computer\ science\ student.\r\n
+comment1.params=n\ id\ year
+comment1.target=CompSciStudent(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ \ \ \ \ \ The\ Constructor\ sets\ the\ student's\ name,\ \r\n\ \ \ \ \ \ ID\ number,\ and\ the\ year\ admitted.\r\n\ \ \ \ \ \ @param\ n\ The\ student's\ name.\r\n\ \ \ \ \ \ @param\ id\ The\ student's\ ID\ number.\r\n\ \ \ \ \ \ @param\ year\ The\ year\ the\ student\ was\ admitted.\r\n
+comment2.params=math
+comment2.target=void\ setMathHours(int)
+comment2.text=\r\n\ \ \ \ \ \ The\ setMathHours\ method\ sets\ the\ number\ of\ \r\n\ \ \ \ \ \ math\ hours\ taken.\r\n\ \ \ \ \ \ @param\ math\ The\ math\ hours\ taken.\r\n
+comment3.params=cs
+comment3.target=void\ setCsHours(int)
+comment3.text=\r\n\ \ \ \ \ \ The\ setCsHours\ method\ sets\ the\ number\ of\ \r\n\ \ \ \ \ \ computer\ science\ hours\ taken.\r\n\ \ \ \ \ \ @param\ cs\ The\ computer\ science\ hours\ taken.\r\n
+comment4.params=genEd
+comment4.target=void\ setGenEdHours(int)
+comment4.text=\r\n\ \ \ \ \ \ The\ setGenEdHours\ method\ sets\ the\ number\ of\ \r\n\ \ \ \ \ \ general\ ed\ hours\ taken.\r\n\ \ \ \ \ \ @param\ genEd\ The\ general\ ed\ hours\ taken.\r\n
+comment5.params=
+comment5.target=int\ getRemainingHours()
+comment5.text=\r\n\ \ \ \ \ \ The\ getRemainingHours\ method\ returns\ the\r\n\ \ \ \ \ \ the\ number\ of\ hours\ remaining\ to\ be\ taken.\r\n\ \ \ \ \ \ @return\ The\ hours\ remaining\ for\ the\ student.\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ \ \ \ \ \ The\ toString\ method\ returns\ a\ string\ containing\r\n\ \ \ \ \ \ the\ student's\ data.\r\n\ \ \ \ \ \ @return\ A\ reference\ to\ a\ String.\r\n
+numComments=7

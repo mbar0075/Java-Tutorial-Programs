@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=RangeSum
+comment0.text=\r\n\ \ \ This\ program\ demonstrates\ the\ recursive\ rangeSum\ method.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=array\ start\ end
+comment2.target=int\ rangeSum(int[],\ int,\ int)
+comment2.text=\r\n\ \ \ \ \ \ The\ rangeSum\ method\ calculates\ the\ sum\ of\ a\ specified\r\n\ \ \ \ \ \ range\ of\ elements\ in\ array.\ \r\n\ \ \ \ \ \ @param\ start\ Specifies\ the\ starting\ element.\r\n\ \ \ \ \ \ @param\ end\ Specifies\ the\ ending\ element.\r\n\ \ \ \ \ \ @return\ The\ sum\ of\ the\ range.\r\n
+numComments=3

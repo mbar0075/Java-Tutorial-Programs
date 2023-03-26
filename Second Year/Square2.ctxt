@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Square2
+comment1.params=l
+comment1.target=Square2(double)
+comment2.params=
+comment2.target=double\ getArea()
+comment3.params=
+comment3.target=double\ getPer()
+numComments=4

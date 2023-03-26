@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Wage3
+comment1.params=h\ p\ t
+comment1.target=Wage3(int,\ double,\ double)
+comment2.params=h
+comment2.target=void\ setHours(int)
+comment3.params=p
+comment3.target=void\ setPay(double)
+comment4.params=t
+comment4.target=void\ setTax(double)
+comment5.params=
+comment5.target=int\ getHours()
+comment6.params=
+comment6.target=double\ getPay()
+comment7.params=
+comment7.target=double\ getTax()
+comment8.params=
+comment8.target=double\ calcWage()
+numComments=9

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EndlessRecursion
+comment0.text=\r\n\ \ \ This\ class\ has\ a\ recursive\ method.\r\n\ \ \ it\ will\ call\ itself\ till\ a\ stack\ overflow\ occurs\r\n
+comment1.params=
+comment1.target=void\ message()
+numComments=2

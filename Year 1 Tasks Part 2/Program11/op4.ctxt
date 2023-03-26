@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=op4
+comment1.params=CarName\ CarModel\ CarPrice\ CarStatus
+comment1.target=void\ RentCar(java.lang.String[],\ java.lang.String[],\ int[],\ java.lang.String[])
+numComments=2

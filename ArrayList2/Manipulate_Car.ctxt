@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Manipulate_Car
+comment1.params=carListIn
+comment1.target=void\ addCar(java.util.ArrayList)
+comment2.params=carListIn
+comment2.target=void\ listAll(java.util.ArrayList)
+comment3.params=carListIn
+comment3.target=void\ editCar(java.util.ArrayList)
+comment4.params=carListIn\ findreg\ pos
+comment4.target=void\ ask_new_details(java.util.ArrayList,\ java.lang.String,\ int)
+comment5.params=carListIn
+comment5.target=void\ removeCar(java.util.ArrayList)
+comment6.params=carListIn
+comment6.target=void\ findMake(java.util.ArrayList)
+comment6.text=\r\n\ Lists\ all\ the\ cars\ with\ a\ particular\ make\r\n
+numComments=7

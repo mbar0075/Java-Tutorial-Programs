@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Computation
+comment1.params=result
+comment1.target=void\ ShowAverage(int[])
+comment2.params=average
+comment2.target=void\ Average(double)
+comment3.params=
+comment3.target=void\ Average()
+numComments=4

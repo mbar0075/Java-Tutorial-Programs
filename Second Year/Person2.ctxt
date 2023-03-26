@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Person2
+comment1.params=
+comment1.target=Person2()
+comment2.params=n\ s\ d\ m\ y
+comment2.target=Person2(java.lang.String,\ java.lang.String,\ int,\ int,\ int)
+comment3.params=n
+comment3.target=void\ setName(java.lang.String)
+comment4.params=s
+comment4.target=void\ setSurname(java.lang.String)
+comment5.params=d\ m\ y
+comment5.target=void\ setDOB(int,\ int,\ int)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=d\ m\ y
+comment7.target=int\ calcAge(int,\ int,\ int)
+numComments=8

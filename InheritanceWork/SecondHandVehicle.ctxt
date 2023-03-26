@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SecondHandVehicle
+comment1.params=Reg\ Name\ Year\ Value\ num
+comment1.target=SecondHandVehicle(java.lang.String,\ java.lang.String,\ int,\ double,\ int)
+comment2.params=
+comment2.target=int\ getNumberOfOwners()
+comment3.params=
+comment3.target=void\ IncrementOwners()
+comment4.params=
+comment4.target=boolean\ MultipleOwners()
+numComments=5

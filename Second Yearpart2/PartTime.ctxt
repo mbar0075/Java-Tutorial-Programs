@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PartTime
+comment1.params=n\ s\ h
+comment1.target=PartTime(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=int\ getHoursWorked()
+numComments=3

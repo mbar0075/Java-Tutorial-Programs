@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Triangle
+comment1.params=h\ b
+comment1.target=Triangle(double,\ double)
+comment2.params=
+comment2.target=double\ calcArea()
+numComments=3

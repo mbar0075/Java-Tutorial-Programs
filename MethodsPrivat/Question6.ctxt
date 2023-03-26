@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Question6
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=x\ y\ z
+comment2.target=int\ getSmallest(int,\ int,\ int)
+comment3.params=x\ y\ z
+comment3.target=int\ smallest(int,\ int,\ int)
+numComments=4

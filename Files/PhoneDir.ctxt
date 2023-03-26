@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=PhoneDir
+comment1.params=
+comment1.target=PhoneDir()
+comment2.params=isem\ numru
+comment2.target=PhoneDir(java.lang.String,\ int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=void\ readInput()
+comment5.params=
+comment5.target=java.lang.String\ getName()
+comment6.params=
+comment6.target=int\ getPhone()
+comment7.params=isem
+comment7.target=void\ setName(java.lang.String)
+comment8.params=numru
+comment8.target=void\ setPhone(int)
+comment9.params=otherObject
+comment9.target=boolean\ equals(PhoneDir)
+numComments=10

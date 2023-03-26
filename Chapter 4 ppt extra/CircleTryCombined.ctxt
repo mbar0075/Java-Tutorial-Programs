@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CircleTryCombined
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=radius
+comment2.target=double\ getCircumference(double)
+comment3.params=radius
+comment3.target=double\ getArea(double)
+numComments=4

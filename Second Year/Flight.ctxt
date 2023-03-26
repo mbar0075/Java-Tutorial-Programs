@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Flight
+comment1.params=
+comment1.target=Flight()
+comment2.params=d
+comment2.target=void\ setDestination(java.lang.String)
+comment3.params=a
+comment3.target=void\ setAprice(double)
+comment4.params=c
+comment4.target=void\ setCprice(double)
+comment5.params=a
+comment5.target=void\ setAdults(double)
+comment6.params=c
+comment6.target=void\ setChildren(double)
+comment7.params=
+comment7.target=double\ calculateTotal()
+comment8.params=
+comment8.target=void\ showDetails()
+numComments=9

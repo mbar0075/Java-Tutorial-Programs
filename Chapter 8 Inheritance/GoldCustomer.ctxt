@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=GoldCustomer
+comment1.params=nameIn\ limitIn
+comment1.target=GoldCustomer(java.lang.String,\ double)
+comment2.params=limitIn
+comment2.target=void\ setCreditLimit(double)
+comment3.params=
+comment3.target=double\ getCreditLimit()
+comment4.params=goodsIn
+comment4.target=boolean\ dispatchGoods(double)
+numComments=5

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=double\ volume()
+comment1.params=w\ h\ d
+comment1.target=void\ setDim(double,\ double,\ double)
+numComments=2

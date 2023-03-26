@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=SalonObject
+comment1.params=
+comment1.target=SalonObject()
+comment10.params=services\ posi
+comment10.target=void\ display_service(SalonObject[],\ int)
+comment2.params=service\ price\ time
+comment2.target=SalonObject(java.lang.String,\ double,\ int)
+comment3.params=services
+comment3.target=void\ inputServices(SalonObject[])
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=double\ getPrice()
+comment6.params=
+comment6.target=int\ getTime()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment8.params=services
+comment8.target=void\ display_all(SalonObject[])
+comment9.params=services\ service
+comment9.target=int\ search_Service_position(SalonObject[],\ java.lang.String)
+numComments=11

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Salon
+comment1.params=service\ price\ minutes
+comment1.target=void\ inputServices(java.lang.String[],\ double[],\ int[])
+comment2.params=s\ p\ t
+comment2.target=void\ display(java.lang.String[],\ double[],\ int[])
+comment3.params=s\ service
+comment3.target=int\ search_Service_position(java.lang.String[],\ java.lang.String)
+comment4.params=s\ p\ t\ posi
+comment4.target=void\ display_service(java.lang.String[],\ double[],\ int[],\ int)
+numComments=5

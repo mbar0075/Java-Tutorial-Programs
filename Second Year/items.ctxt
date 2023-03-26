@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=items
+comment1.params=
+comment1.target=items()
+comment2.params=n\ q\ p
+comment2.target=items(java.lang.String,\ int,\ double)
+comment3.params=q
+comment3.target=void\ updateQuantity(int)
+comment4.params=q
+comment4.target=void\ addQuantity(int)
+comment5.params=
+comment5.target=void\ showInventory()
+numComments=6

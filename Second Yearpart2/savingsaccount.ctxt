@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=savingsaccount
+comment1.params=a\ r
+comment1.target=savingsaccount(int,\ double)
+comment2.params=
+comment2.target=void\ calculateinterest()
+numComments=3

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Truck
+comment1.params=theOwner\ brand\ mudel\ regno\ aLoad\ aTow
+comment1.target=Truck(Person,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=void\ writeLoad()
+comment4.params=
+comment4.target=void\ writeTow()
+comment5.params=newLoad
+comment5.target=void\ setLoad(double)
+comment6.params=newTow
+comment6.target=void\ setTow(int)
+comment7.params=
+comment7.target=double\ getLoad()
+numComments=8

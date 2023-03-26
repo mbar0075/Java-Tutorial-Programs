@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Grades
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=double\ inputMark()
+comment3.params=mark
+comment3.target=void\ calcGrade(double)
+numComments=4

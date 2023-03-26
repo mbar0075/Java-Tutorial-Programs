@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SubClass
+comment1.params=input
+comment1.target=void\ Decryption(java.lang.String)
+comment2.params=input
+comment2.target=char[]\ MakingOfArray(java.lang.String)
+comment3.params=array
+comment3.target=void\ Display(char[])
+comment4.params=input
+comment4.target=void\ Encryption(java.lang.String)
+numComments=5

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Max
+comment1.params=
+comment1.target=Max()
+comment2.params=a\ c\ b
+comment2.target=int\ findMax(int,\ int,\ int)
+comment3.params=a\ c\ b
+comment3.target=double\ findMax(double,\ double,\ double)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

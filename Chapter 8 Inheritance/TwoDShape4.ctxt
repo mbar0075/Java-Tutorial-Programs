@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=TwoDShape4
+comment1.params=
+comment1.target=TwoDShape4()
+comment10.params=
+comment10.target=void\ showDim()
+comment11.params=
+comment11.target=double\ area()
+comment2.params=w\ h\ n
+comment2.target=TwoDShape4(double,\ double,\ java.lang.String)
+comment3.params=x\ n
+comment3.target=TwoDShape4(double,\ java.lang.String)
+comment4.params=ob
+comment4.target=TwoDShape4(TwoDShape4)
+comment5.params=
+comment5.target=double\ getWidth()
+comment6.params=
+comment6.target=double\ getHeight()
+comment7.params=w
+comment7.target=void\ setWidth(double)
+comment8.params=h
+comment8.target=void\ setHeight(double)
+comment9.params=
+comment9.target=java.lang.String\ getName()
+numComments=12

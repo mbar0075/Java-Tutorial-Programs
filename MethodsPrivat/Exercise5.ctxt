@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Exercise5
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=arr
+comment2.target=void\ SearchRemove(int[])
+comment3.params=arr\ input
+comment3.target=void\ Display(int[],\ int)
+numComments=4

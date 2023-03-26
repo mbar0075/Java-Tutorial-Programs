@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Exercise3
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=service\ time\ price
+comment2.target=void\ Input(java.lang.String[],\ int[],\ double[])
+comment3.params=service\ time\ price
+comment3.target=void\ Display(java.lang.String[],\ int[],\ double[])
+comment4.params=service\ time\ price
+comment4.target=void\ ServiceName(java.lang.String[],\ int[],\ double[])
+comment5.params=service\ time\ price
+comment5.target=void\ Invoice(java.lang.String[],\ int[],\ double[])
+comment6.params=service\ name
+comment6.target=int\ Search(java.lang.String[],\ java.lang.String)
+comment7.params=service\ price\ time
+comment7.target=void\ ChangePrice(java.lang.String[],\ double[],\ int[])
+numComments=8

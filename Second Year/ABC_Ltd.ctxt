@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ABC_Ltd
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=c
+comment2.target=void\ Input(Employee1[])
+comment3.params=e
+comment3.target=void\ sort(Employee1[])
+comment4.params=a\ n
+comment4.target=void\ search(Employee1[],\ int)
+comment5.params=a\ first\ last\ key
+comment5.target=int\ Search(Employee1[],\ int,\ int,\ int)
+numComments=6

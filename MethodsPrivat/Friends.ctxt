@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Friends
+comment1.params=
+comment1.target=Friends()
+comment2.params=name\ surname
+comment2.target=Friends(java.lang.String,\ java.lang.String)
+comment3.params=personarray
+comment3.target=void\ enter_details(Friends[])
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=java.lang.String\ getSurname()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=personarray
+comment7.target=void\ display_persons(Friends[])
+comment8.params=personarray
+comment8.target=void\ list_by_surname(Friends[])
+numComments=9

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=loyaltyCard
+comment1.params=
+comment1.target=loyaltyCard()
+comment2.params=c
+comment2.target=loyaltyCard(Customers)
+comment3.params=c
+comment3.target=void\ updateCode(Customers)
+comment4.params=cost
+comment4.target=int\ addPoints(double)
+comment5.params=points
+comment5.target=void\ redeemPoints(int)
+comment6.params=
+comment6.target=void\ showBalance()
+comment7.params=c
+comment7.target=void\ showDetails(Customers)
+numComments=8

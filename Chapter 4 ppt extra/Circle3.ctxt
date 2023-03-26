@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Circle3()
+comment1.params=newRadius
+comment1.target=Circle3(double)
+comment1.text=Construct\ a\ circle\ with\ a\ specified\ radius
+comment2.params=
+comment2.target=double\ getRadius()
+comment2.text=Return\ radius
+comment3.params=newRadius
+comment3.target=void\ setRadius(double)
+comment3.text=Set\ a\ new\ radius
+comment4.params=
+comment4.target=double\ getArea()
+comment4.text=Return\ the\ area\ of\ this\ circle
+comment5.params=c
+comment5.target=void\ printCircle(Circle3)
+comment6.params=
+comment6.target=Circle3[]\ createCircleArray()
+comment6.text=Create\ an\ array\ of\ Circle\ objects
+comment7.params=circleArray
+comment7.target=void\ printCircleArray(Circle3[])
+comment7.text=Print\ an\ array\ of\ circles\ and\ their\ total\ area
+comment8.params=circleArray
+comment8.target=double\ sum(Circle3[])
+comment8.text=Add\ circle\ areas
+numComments=9

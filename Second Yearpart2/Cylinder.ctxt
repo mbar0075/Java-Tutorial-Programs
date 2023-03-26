@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Cylinder
+comment1.params=
+comment1.target=Cylinder()
+comment2.params=height
+comment2.target=Cylinder(double)
+comment3.params=height\ radius
+comment3.target=Cylinder(double,\ double)
+comment4.params=height\ radius\ colour
+comment4.target=Cylinder(double,\ double,\ java.lang.String)
+comment5.params=
+comment5.target=double\ getHeight()
+comment6.params=height
+comment6.target=void\ setHeight(double)
+comment7.params=
+comment7.target=double\ getVolume()
+comment8.params=
+comment8.target=double\ getSurfaceArea()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

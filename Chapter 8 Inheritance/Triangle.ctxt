@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Triangle
+comment1.params=s\ w\ h
+comment1.target=Triangle(java.lang.String,\ double,\ double)
+comment2.params=
+comment2.target=double\ area()
+comment3.params=
+comment3.target=void\ showStyle()
+comment3.text=\ getWidth()\ and\ getHeight()\ use\ accessor\ \r\n\ methods\ provided\ by\ superclass\r\n
+numComments=4

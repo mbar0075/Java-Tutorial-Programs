@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=LinearMethod
+comment1.params=a
+comment1.target=void\ fillArray(int[])
+comment2.params=a
+comment2.target=void\ display(int[])
+comment3.params=a\ n
+comment3.target=void\ linearSearch(int[],\ int)
+numComments=4

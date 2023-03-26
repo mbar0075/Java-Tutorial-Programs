@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ArrayParameter
+comment1.params=nums
+comment1.target=void\ enterValues(int[])
+comment2.params=nums
+comment2.target=void\ changeValues(int[])
+comment3.params=nums
+comment3.target=void\ displayValues(int[])
+comment4.params=x
+comment4.target=void\ changeNumber(int)
+comment5.params=
+comment5.target=int\ getX()
+numComments=6
