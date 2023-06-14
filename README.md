@@ -122,7 +122,7 @@ public class Beatles
 ```
 <br>
 
-**Special recognition and appreciation** are extended to [Mr. Raymond Cuschieri](https://www.um.edu.mt/profile/raymondcuschieri) for his invaluable guidance, support, and dedication in imparting these fundamental programming principles and fostering the growth of programming skills. The knowledge and skills gained from this project have laid a strong foundation for further learning and application in practical programming scenarios.
+**Special recognition and appreciation** are extended to [Mr. Raymond Cuschieri](https://mt.linkedin.com/in/ray-cuschieri-73b95684) for his invaluable guidance, support, and dedication in imparting these fundamental programming principles and fostering the growth of programming skills. The knowledge and skills gained from this project have laid a strong foundation for further learning and application in practical programming scenarios.
 
 
 
