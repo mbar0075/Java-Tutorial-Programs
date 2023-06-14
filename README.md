@@ -129,4 +129,4 @@ public class Beatles
 
 ## Deliverables:
 The repository includes:<br />
-Various Different Java Tutorial Programs constructed in practice for the Ordinary and Advanced level examinations.<br />
+**Various Different Java Tutorial Programs constructed in practice for the Ordinary and Advanced level examinations.** <br />
